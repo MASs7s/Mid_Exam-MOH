@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AdvancedAndroid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#315A80</item>
+        <item name="colorPrimaryVariant">#203D59</item>
+        <item name="colorSecondary">#E09F3E</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
